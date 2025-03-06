@@ -34,4 +34,4 @@ El proyecto incluye las siguientes operaciones básicas:
           
 👨‍💻 Contribución
 
-Este proyecto fue desarrollado de manera individual por Diego Antonio Flores Herrera (Carnet: FH240388). Mi compañero no participó en la creación del proyecto, por lo que todo el código, la documentación y la configuración fueron realizados por mí.
+Este proyecto fue desarrollado de manera individual por Diego Antonio Flores Herrera (Carnet: FH240388). Mi compañero no participó en la creación del proyecto, por lo que todo el código y la configuración fueron realizados por mí.
