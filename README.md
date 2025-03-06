@@ -31,24 +31,6 @@ El proyecto incluye las siguientes operaciones básicas:
 
     Manejo de Relaciones: La tabla persona tiene una relación con la tabla ocupaciones mediante una clave foránea (id_ocupacion).
 
-📂 Estructura del Proyecto
-
-El proyecto está organizado de la siguiente manera:
-src
-└── main
-    └── java
-        └── sv
-            └── edu
-                └── udb
-                    ├── Main.java                    # Clase principal de la aplicación
-                    ├── model                        # Paquete para las entidades
-                    │   ├── Persona.java             # Entidad Persona
-                    │   └── Ocupacion.java           # Entidad Ocupacion
-                    ├── repository                   # Paquete para los repositorios
-                    │   ├── PersonaRepository.java   # Repositorio para la entidad Persona
-                    │   └── OcupacionRepository.java # Repositorio para la entidad Ocupacion
-                    ├── service                      # Paquete para los servicios
-                         └── PersonaService.java     # Servicio para la entidad Persona
           
 👨‍💻 Contribución
 
